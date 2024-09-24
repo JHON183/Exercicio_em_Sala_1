@@ -17,3 +17,4 @@ Aguarda-se 1 segundo.
 O LED é desligado.
 Aguarda-se mais 1 segundo.
 Este ciclo se repete indefinidamente enquanto o programa estiver em execução.
+![Uploading Mighty Wluff (1).png…]()
