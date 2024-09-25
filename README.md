@@ -18,4 +18,5 @@ O LED é desligado.
 Aguarda-se mais 1 segundo.
 Este ciclo se repete indefinidamente enquanto o programa estiver em execução.
 
-![Mighty Wluff (1)](https://github.com/user-attachments/assets/c4f57d6f-deba-4f8f-a2b5-62361cdc7265)
+
+![Mighty Wluff (11)](https://github.com/user-attachments/assets/6c32a844-c4c1-41cb-b527-fc6aeb21d3ea)
